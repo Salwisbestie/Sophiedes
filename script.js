@@ -141,8 +141,6 @@ popup.style.height = popupHeight + "px";
     video.setAttribute("webkit-playsinline", "true"); // Extra para versiones viejas de Safari
 
     video.src = elegido.src; 
-
-};
     
     popup.appendChild(video);
 
