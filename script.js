@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/oso34.mp4"},
       { tipo: "video", src: "media/videos/oso35.mp4"},
       { tipo: "video", src: "media/videos/oso22.mp4" },
-      { tipo: "video", src: "media/videos/oso32.mp4"}]
+      { tipo: "video", src: "media/videos/oso32.mp4"}]}
 
   /* ===== ESTADO ===== */
 let categoriaActual = null;
