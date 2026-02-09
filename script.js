@@ -141,14 +141,7 @@ popup.style.height = popupHeight + "px";
     video.setAttribute("webkit-playsinline", "true"); // Extra para versiones viejas de Safari
 
     video.src = elegido.src; 
-video.oncanplay = () => {
-  // 🔊 activar sonido tras interacción del usuario
-  video.muted = false;
-  video.volume = 1.0;
 
-  video.play().catch(err => {
-    console.warn("No se pudo reproducir con sonido:", err);
-  });
 };
     
     popup.appendChild(video);
