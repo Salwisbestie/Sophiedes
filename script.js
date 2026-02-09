@@ -20,15 +20,27 @@ document.addEventListener("DOMContentLoaded", () => {
       { tipo: "video", src: "media/videos/oso11.mp4"},      
       { tipo: "video", src: "media/videos/oso12.mp4"},
       { tipo: "video", src: "media/videos/oso13.mp4"},      
-      { tipo: "video", src: "media/videos/oso14.mp4"},
       { tipo: "video", src: "media/videos/oso15.mp4"},
       { tipo: "video", src: "media/videos/oso16.mp4" },
       { tipo: "video", src: "media/videos/oso17.mp4"},
       { tipo: "video", src: "media/videos/oso18.mp4"},      
       { tipo: "video", src: "media/videos/oso19.mp4"},
       { tipo: "video", src: "media/videos/oso20.mp4"},      
-      { tipo: "video", src: "media/videos/oso21.mp4"}
- ] };
+      { tipo: "video", src: "media/videos/oso21.mp4"},
+      { tipo: "video", src: "media/videos/oso23.mp4"},      
+      { tipo: "video", src: "media/videos/oso24.mp4"},
+      { tipo: "video", src: "media/videos/oso25.mp4"},
+      { tipo: "video", src: "media/videos/oso26.mp4" },
+      { tipo: "video", src: "media/videos/oso27.mp4"},
+      { tipo: "video", src: "media/videos/oso28.mp4"},      
+      { tipo: "video", src: "media/videos/oso29.mp4"},
+      { tipo: "video", src: "media/videos/oso30.mp4"},      
+      { tipo: "video", src: "media/videos/oso31.mp4"},
+      { tipo: "video", src: "media/videos/oso33.mp4"},      
+      { tipo: "video", src: "media/videos/oso34.mp4"},
+      { tipo: "video", src: "media/videos/oso35.mp4"},
+      { tipo: "video", src: "media/videos/oso22.mp4" },
+      { tipo: "video", src: "media/videos/oso32.mp4"}
 
   /* ===== ESTADO ===== */
 let categoriaActual = null;
