@@ -154,7 +154,34 @@ lince: [
 { tipo: "img", src: "media/img/139.jpeg" },
 { tipo: "img", src: "media/img/140.jpeg" },
 { tipo: "img", src: "media/img/141.jpeg" },
-{ tipo: "img", src: "media/img/142.jpeg"}]}
+{ tipo: "img", src: "media/img/142.jpeg"}],
+perro: [
+      { tipo: "video", src: "media/videos/perro1.mp4" },
+      { tipo: "video", src: "media/videos/perro2.mp4" },
+      { tipo: "video", src: "media/videos/perro3.mp4" },
+      { tipo: "video", src: "media/videos/perro4.mp4" },
+      { tipo: "video", src: "media/videos/perro5.mp4" },
+      { tipo: "video", src: "media/videos/perro6.mp4" },
+      { tipo: "video", src: "media/videos/perro7.mp4" },
+      { tipo: "video", src: "media/videos/perro8.mp4" },
+      { tipo: "video", src: "media/videos/perro9.mp4" },
+      { tipo: "video", src: "media/videos/perro10.mp4"},
+      { tipo: "video", src: "media/videos/perro11.mp4"},      
+      { tipo: "video", src: "media/videos/perro12.mp4"},
+      { tipo: "video", src: "media/videos/perro13.mp4"},      
+      { tipo: "video", src: "media/videos/perro14.mp4"},
+      { tipo: "video", src: "media/videos/perro15.mp4" },
+      { tipo: "video", src: "media/videos/perro16.mp4"},
+      { tipo: "video", src: "media/videos/perro17.mp4"},      
+      { tipo: "video", src: "media/videos/perro18.mp4"},
+      { tipo: "video", src: "media/videos/perro19.mp4"},      
+      { tipo: "video", src: "media/videos/perro20.mp4"},
+      { tipo: "video", src: "media/videos/perro21.mp4"},      
+      { tipo: "video", src: "media/videos/perro22.mp4"},
+      { tipo: "video", src: "media/videos/perro23.mp4"},
+      { tipo: "video", src: "media/videos/oso26.mp4" }]
+                   
+                   }
 
 
 
@@ -294,6 +321,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
