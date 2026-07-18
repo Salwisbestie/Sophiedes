@@ -368,7 +368,7 @@ btn.addEventListener("click", () => {
         btn.classList.add("dim"); 
         primeraVez = false;
     }
-  if (popupsActivos.length >= 4) {
+  if (popupsActivos.length >= 7 ) {
         const viejo = popupsActivos.shift(); // Saca el primero de la lista (el más antiguo)
         if (viejo) viejo.remove(); // Lo elimina del DOM
     }
